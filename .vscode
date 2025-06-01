@@ -1,0 +1,5 @@
+*.ps1~
+*.ps1.bak
+*.tmp
+*.bak
+*.code-workspace
